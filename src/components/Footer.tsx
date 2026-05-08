@@ -7,9 +7,6 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-16 mb-20">
         <div className="space-y-8">
           <Link to="/" className="flex items-center gap-3 group">
-            <div className="bg-brand-brown w-8 h-8 flex items-center justify-center rounded-sm text-white transition-transform group-hover:scale-105">
-              <span className="font-serif font-bold text-xl">K</span>
-            </div>
             <span className="font-display text-xl font-bold tracking-tight uppercase">
               Know Your <span className="text-brand-brown underline decoration-brand-brown/30 underline-offset-4">Broker</span>
             </span>
